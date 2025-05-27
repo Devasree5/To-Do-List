@@ -1,4 +1,5 @@
 To-Do App using MERN
+
 A task management application built with the MERN stack—MongoDB, Express.js, React.js, and Node.js. This project offers a streamlined and user-friendly way to manage your daily tasks with speed and clarity.
 
 ✨ Highlights
