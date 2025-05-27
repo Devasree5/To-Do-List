@@ -8,15 +8,18 @@ Clean, mobile-responsive user interface
 Backend API with real-time task updates
 MongoDB-based persistent storage
 Optional secure login with JWT
+
 🧰 Technologies Used
 Client: React.js, Axios, CSS (or any framework you use like Tailwind/Bootstrap)
 Server: Node.js with Express.js
 Database: MongoDB (via Mongoose)
 Authentication: JSON Web Tokens (if applicable)
+
 ⚙ Getting Started
 Requirements
 Node.js and npm installed locally
 MongoDB running locally or access to a MongoDB Atlas cluster
+
 Project Structure
 Mern-todo/ ├── backend/ ← Express + MongoDB server │ ├── models/ ← Mongoose schemas │ ├── routes/ ← API endpoints │ └── server.js ← Entry point ├── frontend/ ← React app │ ├── src/ ← Components and pages │ └── package.json ← Frontend config
 
