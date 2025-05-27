@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📝 MERN ToDo List App
 
 Welcome! This is a simple yet fully functional **ToDo list app** built using the **MERN stack** — that's **MongoDB**, **Express**, **React**, and **Node.js**.
@@ -94,9 +94,4 @@ PORT=5000
 MONGO_URI=mongodb://localhost:27017/todolist
 
 start the server:
-npm start
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 43731d9becc611d1daa67819b741b1c9be72d743
+npm start
